@@ -1,0 +1,9 @@
+{
+  "name": "swineBox",
+  "symbol": "SWB",
+  "description": "only a Test",
+  "image":"https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "attributes": {
+    "max_supply": 1000000000
+  }
+}
