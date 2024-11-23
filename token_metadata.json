@@ -2,5 +2,13 @@
   "name": "SWINE",
   "symbol": "SWN",
   "description": "This is the SWINE utility token.",
-  "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png"
+  "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "sellerFeeBasisPoints": 2,
+  "creators": [
+  {
+    "address": "CWqqCXSsonyQkXCDGFBkmAU1b37VKwJj6wnh1zTWXN5M",
+    "verified": true,
+    "share": 100
+  }
+],
 }
