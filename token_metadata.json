@@ -1,8 +1,9 @@
 {
-  "name": "SWINE",
+  "name": "SWINEChain",
   "symbol": "SWN",
   "description": "This is the SWINE utility token.",
   "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "external_url": "https://yourwebsite.com", // Hier deine Webseite einfügen
   "sellerFeeBasisPoints": 2,
   "creators": [
     {
@@ -10,5 +11,12 @@
       "verified": true,
       "share": 100
     }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000" // Total Supply als Attribut hinzufügen
+    }
   ]
 }
+
