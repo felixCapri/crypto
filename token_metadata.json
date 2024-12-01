@@ -1,7 +1,7 @@
 {
-  "name": "SWINEChain",
-  "symbol": "SWN",
-  "description": "This is the SWINE utility token.",
+  "name": "SWINETHE",
+  "symbol": "SWT",
+  "description": "This is the SWINETHE  token.",
   "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
   "external_url": "https://yourwebsite.com",
   "sellerFeeBasisPoints": 2,
@@ -15,7 +15,7 @@
   "attributes": [
     {
       "trait_type": "Total Supply",
-      "value": "1,000,000,000"
+      "value": "1000000000"
     }
   ]
 }
