@@ -1,10 +1,10 @@
 {
-  "name": "SWINETHEH",
-  "symbol": "SWT",
-  "description": "This is the SWINETHE  token.",
+  "name": "BIGGY",
+  "symbol": "BG",
+  "description": "This is the SWINETHE Utill token.",
   "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
   "external_url": "https://yourwebsite.com",
-  "sellerFeeBasisPoints": 2,
+  "sellerFeeBasisPoints": 5,
   "creators": [
     {
       "address": "CWqqCXSsonyQkXCDGFBkmAU1b37VKwJj6wnh1zTWXN5M",
@@ -15,7 +15,7 @@
   "attributes": [
     {
       "trait_type": "Total Supply",
-      "value": "1000000000"
+      "value": "10000000"
     }
   ]
 }
